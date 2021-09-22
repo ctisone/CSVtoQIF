@@ -1,0 +1,8 @@
+*.csv
+*.qif
+*__pycache__*
+Tests/TestFileDir/
+*.spec
+build/
+dist/
+*.log
